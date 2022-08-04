@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "proyectofinal-fa332": {
+      "hosting": {
+        "AppPortafolio": [
+          "proyectofinal-fa332"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "proyectofinal-fa332"
+  }
+}
